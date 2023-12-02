@@ -29,7 +29,7 @@ This script is meant for educational and authorised auditing purposes only (eg. 
 
 # Example Output
 
-```bash
+```
 
             .--,       .--,
            ( (  \.---./  ) )
